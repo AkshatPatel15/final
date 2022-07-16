@@ -1,0 +1,13 @@
+open cmd in final folder
+
+npm start
+
+open 2nd cmd in final folder
+
+cd env/Scripts
+activate
+cd..
+cd..
+cd src/flask
+
+python api.py
